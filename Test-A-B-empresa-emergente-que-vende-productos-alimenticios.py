@@ -1,30 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# 
-# 
-# **Hola! Paolo**
-# 
-# Mi nombre es Enrique Romero, tendre el gusto de revisar Tu proyecto, te deseo lo mejor.
-# 
-# <div class="alert alert-danger">
-# <b>❌ Comentario del revisor:</b> Esto destaca los comentarios más importantes. Sin su desarrollo, el proyecto no será aceptado. </div>
-# 
-# <div class="alert alert-warning">
-# <b>⚠️ Comentario del revisor:</b> Así que los pequeños comentarios están resaltados. Se aceptan uno o dos comentarios de este tipo en el borrador, pero si hay más, deberá hacer las correcciones. Es como una tarea de prueba al solicitar un trabajo: muchos pequeños errores pueden hacer que un candidato sea rechazado.
-# </div>
-# 
-# <div class="alert alert-success">
-# <b>✔️ Comentario del revisor:</b> Así que destaco todos los demás comentarios.</div>
-# 
-# <div class="alert alert-info"> <b>Comentario del estudiante:</b> Por ejemplo, asi.</div>
-# 
-# Todo esto ayudará a volver a revisar tu proyecto más rápido.
-# 
-# 
-# 
-# 
-
 # # ***Introducción al Proyecto***
 # 
 # Trabajas en una empresa emergente que vende productos alimenticios. Debes investigar el comportamiento del usuario para la aplicación de la empresa.
